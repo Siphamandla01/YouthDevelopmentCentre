@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://images.hdqwalls.com/wallpapers/material-colors-8k-3g.jpg);
+    background-size: initial;
+    opacity: 97%;
+    box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+    background-repeat: no-repeat;
+}
+.form{
+
+
+}
+.login_form{
+    padding: 30px;
+    box-shadow: 0px 1px 36px 5px rgba(0,0,0,0.28);
+    border-radius: 5px;
+}
+.form_btn{
+    background: #fb641b;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    border: none;
+    color: #fff;
+    width: 30%;
+}
+.label_txt{
+    font-size: 12px;
+    color: black;
+}
+.form-control{border-radius: 25px }
+.logo{
+    height: 50px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.errmsg{
+    margin: 2px auto;
+    border-radius: 5px;
+    border: 1px solid red;
+    background: pink;
+    text-align: left;
+    color: brown;
+    padding: 1px;
+}
+.row{
+    padding: 50px;
+}
+.successmsg{
+    margin: 5px auto;
+    border-radius: 5px;
+    border: 1px solid green;
+    background: #33CC00;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
